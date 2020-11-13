@@ -17,7 +17,7 @@ const Home: React.FC = () => {
         <FruitImage
           source={{
             uri:
-              'https://saude.abril.com.br/wp-content/uploads/2016/11/mac3a7c3a3.jpg?quality=85&strip=info&resize=680,453',
+              'https://conteudo.imguol.com.br/c/entretenimento/32/2018/01/18/maca-1516308281068_v2_900x506.jpg',
           }}
           resizeMode="cover"
         />
