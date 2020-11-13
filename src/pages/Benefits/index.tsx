@@ -46,7 +46,7 @@ const Benefits: React.FC = () => {
           <FruitSynopsis>
             A quercetina (um dos antioxidantes encontrados em abundância nas
             maçãs) é um dos compostos que ajudam a reduzir a morte celular
-            causada pela oxidação e inflamação dos neurônios
+            causada pela oxidação e inflamação dos neurônios.
           </FruitSynopsis>
           <FruitSubtitle>3. É boa para o coração</FruitSubtitle>
           <FruitSynopsis>
@@ -54,7 +54,7 @@ const Benefits: React.FC = () => {
             cardiovasculares. Isso acontece porque a fruta contém fibras
             solúveis, que reduzem os níveis de colesterol no sangue. Possui
             também polifenóis, que têm efeitos antioxidantes e pode diminuir a
-            pressão arterial
+            pressão arterial.
           </FruitSynopsis>
           <FruitSubtitle>4. Diminui o risco de diabetes</FruitSubtitle>
           <FruitSynopsis>
@@ -65,15 +65,7 @@ const Benefits: React.FC = () => {
             Acredita-se que os polifenóis presentes nas frutas previnam danos
             nos tecidos das células beta do pâncreas. Elas produzem insulina no
             corpo e são frequentemente prejudicadas nas pessoas com diabetes
-            tipo 2
-          </FruitSynopsis>
-          <FruitSubtitle>5. Combate a asma</FruitSubtitle>
-          <FruitSynopsis>
-            As maçãs são ricas em antioxidantes que podem proteger os pulmões de
-            danos oxidativos. Um estud divulgado pela California State
-            University também comprovou que as mulheres que comiam mais maçãs
-            tinham menores riscos de desenvolver asma. Comer cerca de 15% de uma
-            maçã grande por dia já diminui em 10% a chance da doença aparecer.
+            tipo 2.
           </FruitSynopsis>
         </Info>
       </Container>

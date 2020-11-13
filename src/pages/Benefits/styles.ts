@@ -26,17 +26,18 @@ export const Info = styled.View`
 export const FruitTitle = styled.Text`
   font-family: 'Archivo-Bold';
   font-size: 38px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 `;
 
 export const FruitSubtitle = styled.Text`
   font-family: 'Archivo-SemiBold';
   font-size: 24px;
   margin: 20px 0;
+  color: #d73535;
 `;
 
 export const FruitSynopsis = styled.Text`
-  margin-top: 10px;
+  margin-bottom: 20px;
   color: #6a6180;
   line-height: 32px;
   font-size: 18px;
