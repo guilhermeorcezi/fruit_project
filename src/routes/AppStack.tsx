@@ -12,7 +12,7 @@ const AppStack: React.FC = () => {
         headerShown: false,
         cardStyle: { backgroundColor: '#f0f0f7' },
       }}
-      initialRouteName="TabStack"
+      initialRouteName="Home"
     >
       <App.Screen name="TabStack" component={TabStack} />
     </App.Navigator>

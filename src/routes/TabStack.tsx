@@ -3,8 +3,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/Feather';
 import IconIonicons from 'react-native-vector-icons/Ionicons';
 
-import Home from '../pages/Benefits';
-import Benefits from '../pages/Home';
+import Home from '../pages/Home';
+import Benefits from '../pages/Benefits';
 import Recipes from '../pages/Recipes';
 import TypesOf from '../pages/TypesOf';
 
