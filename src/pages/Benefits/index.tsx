@@ -25,7 +25,7 @@ const Benefits: React.FC = () => {
       </ImageContainer>
       <Container>
         <Info>
-          <FruitTitle>Benefícios da Maçã</FruitTitle>
+          <FruitTitle>Benefícios</FruitTitle>
           <FruitSynopsis>
             Consumir Uma maçã por dia mantém você longe do médico. Esse
             provérbio inglês resume bem o que o alimento proporciona para o
