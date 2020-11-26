@@ -1,5 +1,9 @@
-
-
+<div style="display: flex; flex-direction: 'row'; justify-content:'center';">
+<h3 align="center">
+   <img src="./github_assets/screen01.png" width="180">
+   <img src="./github_assets/screen02.png" width="180">
+</h3>
+</div>
    
 <p align="center"> 🚀 Frui Project: An application about apples.
  </p>
