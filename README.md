@@ -23,7 +23,7 @@ The project was developed using the following technologies
 ### :exclamation: Mobile Application
 To start the mobile app, make sure you have an emulator on your machine or configure your phone to emulate the application, then use:
 ```
-yarn 
+yarn // to install all dependences
 yarn run:android // yarn run:ios
 ```
 
