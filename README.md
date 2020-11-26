@@ -18,6 +18,8 @@
 The project was developed using the following technologies
 
 - [React Native](https://reactnative.dev/)
+- [Styled Components](https://styled-components.com/)
+
 ## :fire: How to run
 
 ### :exclamation: Mobile Application
