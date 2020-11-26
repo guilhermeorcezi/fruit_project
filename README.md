@@ -20,8 +20,8 @@ The project was developed using the following technologies
 - [React Native](https://reactnative.dev/)
 ## :fire: How to run
 
-### :exclamation: Fake backend API
-To start use the commands after clone this repository:
+### :exclamation: Mobile Application
+To start the mobile app, make sure you have an emulator on your machine or configure your phone to emulate the application, then use:
 ```
 yarn 
 yarn run:android // yarn run:ios
