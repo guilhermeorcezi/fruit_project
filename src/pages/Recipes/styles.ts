@@ -46,6 +46,7 @@ export const FruitTitle = styled.Text`
   font-family: 'Archivo-Bold';
   font-size: 38px;
   margin-bottom: 20px;
+  color: #28262E;
 `;
 
 export const FruitSubtitle = styled.Text`

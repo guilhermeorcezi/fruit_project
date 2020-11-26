@@ -26,6 +26,7 @@ export const Info = styled.View`
 export const FruitTitle = styled.Text`
   font-family: 'Archivo-Bold';
   font-size: 38px;
+  color: #28262E;
   margin-bottom: 0;
 `;
 

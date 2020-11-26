@@ -31,7 +31,7 @@ const TypesOf: React.FC = () => {
         <Info>
           <FruitTitle>Tipos</FruitTitle>
           <FruitSynopsis>
-            Algumas dos tipos mais conhecidos de maçãs.
+            Alguns dos tipos mais comuns de maçãs.
           </FruitSynopsis>
 
           <FruitSubtitle>Ambrosia</FruitSubtitle>
